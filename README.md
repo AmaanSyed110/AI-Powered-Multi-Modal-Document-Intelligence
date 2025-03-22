@@ -3,6 +3,10 @@
 ## Overview
 AI-Powered Multi-Modal Document Intelligence is a Streamlit-based application that leverages OpenAI's GPT-4 and LangChain to provide a multi-modal Retrieval-Augmented Generation (RAG) system. This tool allows users to upload PDF documents, extract text, tables, and images, and interact with an AI-powered chatbot to ask questions and retrieve insights from the documents.
 
+## Flow of the Project
+![diagram-export-3-22-2025-5_08_33-PM](https://github.com/user-attachments/assets/66981af9-c0b5-4ca9-86e2-6e67df9bb67d)
+
+
 ## Features
 - **Multi-Modal Processing**:
   - Extract text and tables from PDFs using ``pdfplumber``.
