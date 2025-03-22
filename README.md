@@ -6,7 +6,6 @@ AI-Powered Multi-Modal Document Intelligence is a Streamlit-based application th
 ## Flow of the Project
 ![diagram-export-3-22-2025-5_08_33-PM](https://github.com/user-attachments/assets/66981af9-c0b5-4ca9-86e2-6e67df9bb67d)
 
-
 ## Features
 - **Multi-Modal Processing**:
   - Extract text and tables from PDFs using ``pdfplumber``.
